@@ -9,7 +9,7 @@
   "author": "Daniel Cornejo",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.27.2",
+    "axios": "^1.6.0",
     "yargs": "^13.3.0"
   }
 }
